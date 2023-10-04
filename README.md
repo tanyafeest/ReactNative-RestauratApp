@@ -18,16 +18,7 @@
   [![Company Website](https://img.shields.io/badge/Visit_us-Website-blue)](https://enatega.com)
   [![Closed Issues](https://img.shields.io/github/issues-closed/Ninjas-Code-official/Enatega-Food-Delivery-Solution?color=success)](https://github.com/Ninjas-Code-official/Enatega-Food-Delivery-Solution/issues?q=is%3Aissue+is%3Aclosed)
 [![Closed Pull Requests](https://img.shields.io/badge/Closed%20Pull%20Requests-View%20on%20GitHub-blue.svg)](https://github.com/Ninjas-Code-official/Enatega-Food-Delivery-Solution/pulls?q=is%3Apr+is%3Aclosed)
-</div>
-
-<div align="center">
-
-  [![Static Badge](https://img.shields.io/badge/facebook-blue?logo=facebook&logoColor=Blue&color=%23fbfbfb)](https://www.facebook.com/enatega)
-  [![Static Badge](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=D815BE&color=%23fcfcfc)](https://www.instagram.com/enatega.nb/)
-  [![Static Badge](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=blue&color=%23fcfcfc)](https://twitter.com/EnategaA)
-  [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=darkblue&color=%23fcfcfc)](https://www.linkedin.com/company/14583783/)
-
-</div>
+</div
 
 # Enatega Single Vendor Solution
 <div align="center">
